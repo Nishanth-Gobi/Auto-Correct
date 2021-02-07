@@ -7,12 +7,12 @@
 using namespace std;
 
 #define nullptr 0
-//#define CHAR_TO_POSITION(a) ((int)a - (int))  Shouldn't this be used ??
+//#define CHAR_TO_POSITION(a) 
 
 class trie{
     public:
                 bool endx;
-                trie *chr[256]; // Why 256???
+                trie *chr[256];
                 trie()
                 {
                     for(int i=0;i<256;i++)
