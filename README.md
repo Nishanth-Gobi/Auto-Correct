@@ -1,6 +1,6 @@
 ## Auto-Spelling-Correction Program
 
-The program replaces missplelled words from an input text file with the closest word in the dictionary(dict.txt) using modified trie data structure.
+The program replaces missplelled words from an input text file with the closest word in the dictionary(english3.txt) using modified trie data structure.
 </br>
 ##### Parameters while choosing the closest word: </br>
 
