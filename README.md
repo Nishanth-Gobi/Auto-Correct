@@ -1,5 +1,11 @@
 ## Auto-Spelling-Correction Program
 
+#### Co-author: 
+
+Sukumar Ganesan (https://github.com/sukumar1612)
+
+#### Description:
+
 The program replaces missplelled words from an input text file with the closest word in the dictionary(english3.txt) using modified trie data structure.
 </br>
 ##### Parameters while choosing the closest word: </br>
